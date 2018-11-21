@@ -1,0 +1,10 @@
+**/bin/*
+**/obj/*
+**/node_modules/*
+**/wwwroot/*
+
+.vs
+**/.DS_Store
+
+**/*.csproj.user
+**/*.journal
