@@ -1,6 +1,6 @@
 import { AppState } from "../modules/app";
 
-export { store } from "./createStore";
+export { configureStore } from "./createStore";
 
 export interface ApplicationState {
   appState: AppState;
